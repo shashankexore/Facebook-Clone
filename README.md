@@ -20,11 +20,13 @@ A responsive and visually accurate clone of Facebook's user interface, built ent
    ```
 ## Folder Structure
 
+```plaintext
 facebook-clone/
 ├── index.html    # Main HTML file
 ├── style.css     # Main CSS file
 └── Images/       # Folder for storing images
     └── [image-files]
+```
 
 ## Credits
 
